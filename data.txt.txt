@@ -1,0 +1,2 @@
+pat admin admin verified patrick.faint@education.nsw.gov.au
+testuser test user verified testuser@test.com
